@@ -1,0 +1,10 @@
+D:\windowCode\CsharpCode\FTPuploadTest\FTPuploadTest\bin\Debug\FTPuploadTest.exe.config
+D:\windowCode\CsharpCode\FTPuploadTest\FTPuploadTest\bin\Debug\FTPuploadTest.exe
+D:\windowCode\CsharpCode\FTPuploadTest\FTPuploadTest\bin\Debug\FTPuploadTest.pdb
+D:\windowCode\CsharpCode\FTPuploadTest\FTPuploadTest\obj\Debug\FTPuploadTest.csprojAssemblyReference.cache
+D:\windowCode\CsharpCode\FTPuploadTest\FTPuploadTest\obj\Debug\FTPuploadTest.Form1.resources
+D:\windowCode\CsharpCode\FTPuploadTest\FTPuploadTest\obj\Debug\FTPuploadTest.Properties.Resources.resources
+D:\windowCode\CsharpCode\FTPuploadTest\FTPuploadTest\obj\Debug\FTPuploadTest.csproj.GenerateResource.cache
+D:\windowCode\CsharpCode\FTPuploadTest\FTPuploadTest\obj\Debug\FTPuploadTest.csproj.CoreCompileInputs.cache
+D:\windowCode\CsharpCode\FTPuploadTest\FTPuploadTest\obj\Debug\FTPuploadTest.exe
+D:\windowCode\CsharpCode\FTPuploadTest\FTPuploadTest\obj\Debug\FTPuploadTest.pdb
